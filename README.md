@@ -9,7 +9,7 @@ Always eager to learn, build, and collaborate.
 - 📫 **Reach me**: Email / LinkedIn / Instagram (mentioned on my profile).
 
 ## 🛠️ Main projects:
-- **`DS_Bootcamp`** - Data structures bootcamp material and implementations.  
+- **`DSA`** - Data structures bootcamp material and implementations.  
 - **`CalcPro`** - Lightweight Python calculator.  
 - **`TerminalX`** - Cross-platform terminal emulator project.  
 - **`AutoTap`** - Lightweight automation / auto-clicker utility.  
