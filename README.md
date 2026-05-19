@@ -51,10 +51,10 @@ Always eager to learn, build, and collaborate.
 </p>
 
 ## 📈 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nullkernel&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amalbijoy&theme=dark&hide_border=true)<br/>
 
 ### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Nullkernel&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=amalbijoy&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
