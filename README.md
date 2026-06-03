@@ -50,9 +50,6 @@ Always eager to learn, build, and collaborate.
   <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" style="display:inline-block;vertical-align:middle;margin:6px;" />
 </p>
 
-## 📈 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=amalbijoy&theme=dark&hide_border=true)<br/>
-
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
