@@ -59,11 +59,10 @@ Turning ideas into software that is testable, reproducible, and practical to dep
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
 | [OS](https://github.com/amalbijoy/OS) | Early-stage x86 boot and kernel-learning project built from a hand-written boot sector; evolving toward a small custom kernel. | x86 Assembly · Make |
-| [TerminalX](https://github.com/amalbijoy/TerminalX) | Cross-platform terminal combining Windows CMD-style commands with Unix-style aliases and system/network tools. | Python |
-| [AI_Chatbot](https://github.com/amalbijoy/AI_Chatbot) | Full-stack conversational AI application with multi-turn context, multiple sessions, and persistent chat history. | FastAPI · Streamlit · MongoDB |
-| [Precedent](https://github.com/amalbijoy/Precedent) | Persistent-memory AI sales strategist that recalls deal history and recommends the next action. | React · FastAPI · Google ADK · Hindsight |
-| [BobShip](https://github.com/amalbijoy/bobship) | AI release-engineering workflow that analyzes release readiness, finds blockers, applies safe fixes, and verifies them. My contribution: MCP server and tooling. | IBM Bob · MCP · Node.js · TypeScript |
-| [Diabetes-Prediction-ML](https://github.com/amalbijoy/Diabetes-Prediction-ML) | Full-stack ML demonstration comparing Logistic Regression and Random Forest on the Pima Indians Diabetes dataset. | scikit-learn · FastAPI · React |
+| [TerminalX](https://github.com/amalbijoy/TerminalX) | Cross-platform terminal environment combining Windows CMD-style commands with Unix-style aliases and system/network utilities. | Python |
+| [AI_Chatbot](https://github.com/amalbijoy/AI_Chatbot) | Full-stack conversational AI prototype with multi-turn context, multiple sessions, and MongoDB persistence. | FastAPI · Streamlit · MongoDB |
+| [Password-Cracker](https://github.com/amalbijoy/Password-Cracker) | Authorized security-research tool implementing dictionary, rule, mask, and brute-force password-hash attacks. | Python · bcrypt · Argon2 |
+| [Diabetes-Prediction-ML](https://github.com/amalbijoy/Diabetes-Prediction-ML) | Educational ML demo comparing Logistic Regression and Random Forest on the Pima Indians Diabetes dataset. | scikit-learn · FastAPI · React |
 
 ## AI model development
 
