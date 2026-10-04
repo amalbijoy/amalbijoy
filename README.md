@@ -48,7 +48,7 @@ Turning ideas into software that is testable, reproducible, and practical to dep
 
 ## About me
 
-- Building **[OS](https://github.com/amalbijoy/OS)**, a from-scratch operating-system project in C and x86-64 Assembly.
+- Building **[OS](https://github.com/amalbijoy/OS)**, a from-scratch operating-system project in C and x86 assembly, currently progressing from BIOS boot into a minimal protected-mode kernel.
 - Building **[TerminalX](https://github.com/amalbijoy/TerminalX)**, a cross-platform terminal with Windows-style commands, Unix-style aliases, and system/network utilities.
 - Exploring **AI model development** as a long-term project, including training small models, teacher→student distillation, synthetic data, and low-resource experimentation.
 - Practicing **DSA and problem solving** while strengthening core computer-science fundamentals.
@@ -106,7 +106,6 @@ I enjoy projects where a team has to go from **idea → working system → demo*
 
 | Project | What it is |
 | :-- | :-- |
-| [Password-Cracker](https://github.com/amalbijoy/Password-Cracker) | Terminal-focused password-hash research tool with dictionary, rule, mask, and brute-force strategies. Intended for authorized security research only. |
 | [TetriX](https://github.com/amalbijoy/TetriX) | Feature-rich Tetris implementation with a 7-bag randomizer, hold piece, ghost preview, particles, and procedural sound. |
 | [DSA](https://github.com/amalbijoy/DSA) | Java data-structures and algorithms implementations covering trees, graphs, hashing, linked lists, queues, and searching. |
 | [AutoTap](https://github.com/amalbijoy/AutoTap) | Lightweight desktop auto-clicker with hotkeys, CLI controls, and click statistics. |
@@ -121,7 +120,7 @@ I enjoy projects where a team has to go from **idea → working system → demo*
 
 | Area | Tools |
 | :-- | :-- |
-| **Systems & OS** | C · x86-64 Assembly · Bash · PowerShell · Linux · Ubuntu · Windows · Make |
+| **Systems & OS** | C · x86 Assembly · Bash · PowerShell · Linux · Ubuntu · Windows · Make |
 | **AI / ML** | Python · PyTorch · scikit-learn · NumPy · pandas |
 | **Backend** | FastAPI · Flask · Streamlit · MongoDB |
 | **Frontend** | React · Tailwind CSS · HTML · CSS · JavaScript |
