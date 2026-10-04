@@ -58,7 +58,7 @@ Turning ideas into software that is testable, reproducible, and practical to dep
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [OS](https://github.com/amalbijoy/OS) | From-scratch x86-64 operating-system project exploring boot flow, kernel fundamentals, memory management, and scheduling. | C · x86-64 Assembly · Make |
+| [OS](https://github.com/amalbijoy/OS) | Early-stage x86 boot and kernel-learning project built from a hand-written boot sector; evolving toward a small custom kernel. | x86 Assembly · Make |
 | [TerminalX](https://github.com/amalbijoy/TerminalX) | Cross-platform terminal combining Windows CMD-style commands with Unix-style aliases and system/network tools. | Python |
 | [AI_Chatbot](https://github.com/amalbijoy/AI_Chatbot) | Full-stack conversational AI application with multi-turn context, multiple sessions, and persistent chat history. | FastAPI · Streamlit · MongoDB |
 | [Precedent](https://github.com/amalbijoy/Precedent) | Persistent-memory AI sales strategist that recalls deal history and recommends the next action. | React · FastAPI · Google ADK · Hindsight |
@@ -92,6 +92,12 @@ I enjoy projects where a team has to go from **idea → working system → demo*
 - **[Precedent](https://github.com/amalbijoy/Precedent)** — HackWithHyderabad 3.0
 - **[BobShip](https://github.com/amalbijoy/bobship)** — IBM Bob 2.0 Hackathon
 
+## Now
+
+- Building **OS** deeper into kernel and systems concepts.
+- Refactoring **TerminalX** into a testable, packageable CLI.
+- Exploring compact model training, teacher→student distillation, synthetic data, and low-resource evaluation.
+
 ## More projects
 
 <details>
@@ -106,8 +112,8 @@ I enjoy projects where a team has to go from **idea → working system → demo*
 | [DSA](https://github.com/amalbijoy/DSA) | Java data-structures and algorithms implementations covering trees, graphs, hashing, linked lists, queues, and searching. |
 | [AutoTap](https://github.com/amalbijoy/AutoTap) | Lightweight desktop auto-clicker with hotkeys, CLI controls, and click statistics. |
 | [CalcPro](https://github.com/amalbijoy/CalcPro) | Command-line scientific calculator with expression evaluation, history, settings, and built-in help. |
-| [RecycleRadar](https://github.com/amalbijoy/RecycleRadar) | Geolocation-based recycling-center finder prototype with material filters and recycling guidance. |
-| [SmartPark](https://github.com/amalbijoy/SmartPark) | Parking availability and booking interface prototype with pricing and amenity filters. |
+| [RecycleRadar](https://github.com/amalbijoy/RecycleRadar) | Recycling-center discovery prototype using simulated facility data and material filters. |
+| [SmartPark](https://github.com/amalbijoy/SmartPark) | Parking availability and booking interface prototype using simulated lot data, pricing, and amenity filters. |
 | [Farm2Table](https://github.com/amalbijoy/Farm2Table) | Farm-to-consumer ordering interface prototype with cart, checkout, and farmer-dashboard flows. |
 
 </details>
