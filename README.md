@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 # Hi, I'm Amal Bijoy
@@ -56,7 +57,7 @@ Making what I build testable, reproducible, and easy for other people to run.
 - **Open to collaborating on** systems, developer tools, AI/ML applications, and practical research experiments.
 
 <!-- OPTIONAL: add one personal line here (hobbies, a fun fact, what you do away from the keyboard) -->
-
+<!--
 ## Selected projects
 
 | Project | What it is | Stack |
@@ -148,7 +149,7 @@ I enjoy projects where a team has to go from **idea → working system → demo*
   <img src="https://github-readme-stats.vercel.app/api?username=amalbijoy&show_icons=true&hide_border=true&theme=dark&rank_icon=github" alt="Amal's GitHub statistics" height="170" />
 </p>
 -->
-
+<!--
 ## Roadmap
 
 - [ ] Grow **OS** from BIOS boot into a minimal protected-mode kernel.
@@ -167,3 +168,4 @@ Working on operating systems, developer tools, or small-model training? [Email m
 Thanks for visiting.
 
 </div>
+-->
